@@ -1,5 +1,5 @@
 {
-  "name": "FAB",
+  "name": "MenuButton",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -8,12 +8,13 @@
   },
   "dependencies": {
     "react": "16.0.0-alpha.12",
-    "react-native": "0.47.2",
-    "react-native-popup-menu": "^0.8.0"
+    "react-native": "0.48.1",
+    "react-native-menu": "git+https://github.com/nlug/react-native-menu.git",
+    "react-native-orientation": "^3.0.0"
   },
   "devDependencies": {
     "babel-jest": "20.0.3",
-    "babel-preset-react-native": "3.0.1",
+    "babel-preset-react-native": "3.0.2",
     "jest": "20.0.4",
     "react-test-renderer": "16.0.0-alpha.12"
   },

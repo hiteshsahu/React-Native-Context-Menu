@@ -1,3 +1,3 @@
-rootProject.name = 'FAB'
+rootProject.name = 'MenuButton'
 
 include ':app'
